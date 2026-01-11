@@ -40,7 +40,10 @@ Le travail a été réalisé dans le cadre d’un **projet scolaire** pour [CoHo
 
 ## Visualisation
 
-<p align="center"><img src="" width="600" /></p> 
-<p align="center"><img src="" width="600" /></p> 
+### Antenne et Arborescence avec déphaseurs
+<p align="center"><img src="reseau 1x4.png" width="600" /></p> 
 
+### Pré-Dimensionnement 
+
+<p align="center"><img src="img/patch excel.png" width="600" /></p> 
 
