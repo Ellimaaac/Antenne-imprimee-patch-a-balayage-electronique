@@ -1,4 +1,4 @@
-# 📡 Antenne Patch Imprimée à Balayage Électronique – 2,4 GHz
+# 📡 Antenne Patch Imprimée à Balayage Électronique
 
 ## Présentation du projet
 Ce projet porte sur le **dimensionnement analytique**, la **conception**, la **simulation électromagnétique** et la **validation expérimentale** d’un **réseau d’antennes patch micro-ruban à balayage électronique**, fonctionnant dans la **bande WiFi 2,4 GHz**.
