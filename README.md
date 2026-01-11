@@ -41,7 +41,7 @@ Le travail a été réalisé dans le cadre d’un **projet scolaire** pour [CoHo
 ## Visualisation
 
 ### Antenne et Arborescence avec déphaseurs
-<p align="center"><img src="reseauPatch.png" width="600" /></p> 
+<p align="center"><img src="img/reseauPatch.png" width="600" /></p> 
 
 ### Pré-Dimensionnement 
 
