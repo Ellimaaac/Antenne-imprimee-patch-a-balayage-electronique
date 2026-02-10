@@ -37,7 +37,7 @@ Le travail a été réalisé dans le cadre d’un **projet scolaire** pour [CoHo
 |---    |:-:    |
 |   Rapport du projet PDF   |  [lien.pdf](https://github.com/Ellimaaac/Antenne-imprimee-patch-a-balayage-lectronique/blob/main/2026_ESC_Projet_Circuit_JOSSERON_MENEGALLI_BAINARD_LANFREDI.pdf)    |  
 | Fichiers des patch ADS   |  bientôt   | 
-| Fichier de pré-dimensionnement EXCEL | bientôt | 
+| Fichier de pré-dimensionnement EXCEL | [lien téléchargement](https://github.com/Ellimaaac/Antenne-imprimee-patch-a-balayage-electronique/blob/main/Dimensionnement%20%20Patch.xlsx)   | 
 | Ficher de l'arborescence ADS |  [lien téléchargement](https://github.com/Ellimaaac/Antenne-imprimee-patch-a-balayage-electronique/blob/main/Projet_circuit_1201lib.7zads) |
 | Ficher de l'arborescence  KiCad | [lien téléchargement](https://github.com/Ellimaaac/Antenne-imprimee-patch-a-balayage-electronique/blob/main/Projet_circuit_1201lib.7zads)  |
 
